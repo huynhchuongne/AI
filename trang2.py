@@ -1,0 +1,1 @@
+open('firstname.txt', mode=’w’, buffering=-1, encoding=None, errors=None, newline=None, closefd=True, opener=None.)
